@@ -21,7 +21,6 @@ Built entirely in **Power BI**, this dashboard uses review metrics like count, h
 - A sharp spike in reviews followed by a steady decline.
 - High volume of reviews correlates with higher ratings.
 
-![Review Count by Date](https://github.com/your-username/your-repo-name/blob/main/Screenshot%20(184).png?raw=true)
 
 ---
 
@@ -29,7 +28,6 @@ Built entirely in **Power BI**, this dashboard uses review metrics like count, h
 - Apps with over 10,000 reviews generally have ratings above 4.5.
 - Developers who respond to users tend to maintain stronger average ratings.
 
-![Ratings by Review Count](https://github.com/your-username/your-repo-name/blob/main/Screenshot%20(185).png?raw=true)
 
 ---
 
@@ -37,7 +35,6 @@ Built entirely in **Power BI**, this dashboard uses review metrics like count, h
 - Top-performing developers like Pictorem and Flipapps had the most helpful reviews.
 - Developers who actively respond to reviews stand out in both review count and user satisfaction.
 
-![Developer Analysis](https://github.com/your-username/your-repo-name/blob/main/Screenshot%20(186).png?raw=true)
 
 ---
 
@@ -59,6 +56,13 @@ Built entirely in **Power BI**, this dashboard uses review metrics like count, h
 
 ---
 
-## 📂 File Structure
+## 📬 Contact
+
+Want to connect or have questions about this project?
+
+[📧 Reach me on LinkedIn](https://www.linkedin.com/in/monty-sitzman/)
+
+---
+
 
 
